@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 383389807678827760}
   - component: {fileID: 2599804278224061058}
   - component: {fileID: 7801961568475695073}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Bunny
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 5911148935455169100}
   - component: {fileID: 5488494421909636679}
   - component: {fileID: 7442307606743297097}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -181,7 +181,7 @@ GameObject:
   - component: {fileID: 57024992144494297}
   - component: {fileID: 5195653899179385639}
   - component: {fileID: 6364844921226609710}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -268,7 +268,7 @@ GameObject:
   - component: {fileID: 7282462395509720813}
   - component: {fileID: 3974745408633632978}
   - component: {fileID: 4309597754999612905}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ear1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -354,7 +354,7 @@ GameObject:
   - component: {fileID: 74479578626644717}
   - component: {fileID: 4557606514227501548}
   - component: {fileID: 9192509500203937538}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ear2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -438,7 +438,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 132498534452729495}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: MiddleBetweenEars
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -473,7 +473,7 @@ GameObject:
   - component: {fileID: 7393480025354190343}
   - component: {fileID: 7607018836123901053}
   - component: {fileID: 6278774265226259848}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
