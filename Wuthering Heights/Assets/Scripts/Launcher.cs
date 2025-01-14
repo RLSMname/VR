@@ -9,7 +9,7 @@ public class Launcher : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetButtonDown("Fire1"))
+        if (Input.GetButtonDown("Fire2"))
         {
             GameObject projectileInstance = Instantiate(projectile, transform.position,  
                 transform.rotation);

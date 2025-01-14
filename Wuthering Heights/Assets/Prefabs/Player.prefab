@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 6402182159355704125}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -121,7 +121,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectile: {fileID: 3051185130811331890, guid: 8e795db47dedf504c9b179888f0c7437, type: 3}
   launchVelocity: 300
-  diagonalAngle: 45
 --- !u!1 &7416825244186866006
 GameObject:
   m_ObjectHideFlags: 0
