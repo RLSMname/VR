@@ -28,6 +28,7 @@ public class PlayerMovement : MonoBehaviour
         UpdateMovement();
         UpdateGravity();
     }
+    
 
     private void UpdateLook()
     {
