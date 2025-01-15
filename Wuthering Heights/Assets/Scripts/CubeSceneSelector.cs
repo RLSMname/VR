@@ -22,6 +22,7 @@ public class CubeSceneSelector : MonoBehaviour
             {
                 if (menuUI != null)
                 {
+                    Cursor.lockState = CursorLockMode.None;
                     menuUI.SetActive(true);
                     if (buttonToActivate != null)
                     {

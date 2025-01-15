@@ -12,6 +12,7 @@ public class MenuController : MonoBehaviour
 
     public void CloseMenu()
     {
+        Cursor.lockState = CursorLockMode.Locked;
         gameObject.SetActive(false); 
     }
 
